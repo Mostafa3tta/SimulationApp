@@ -10,6 +10,7 @@ SimulationApp is an application that simulates various complex systems involving
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Contact](#contact)
+- [Some Screenshots](#screenshots)
 - [License](#license)
 
 ## Introduction
@@ -64,6 +65,18 @@ Contributions are welcome! If you'd like to contribute to SimulationApp, please 
 ## Contact
 For inquiries or suggestions, you can reach out to me through my [Facebook](https://www.facebook.com/mostafa.atta.9085) or [LinkedIn](https://www.linkedin.com/in/mostafa-3tta-5949581a2/) profiles.
 
+## screenshots
+<br>
+<img src="photo_5951541388023807823_y.jpg" alt="photo 1 " style ="width:500px;height:1000px;">
+<br>
+<img src="photo_5951541388023807824_y.jpg" alt="photo 2 " style ="width:500px;height:1000px;">
+<br>
+<img src="photo_5951541388023807825_y.jpg" alt="photo 2 " style ="width:500px;height:1000px;">
+<br>
+<img src="photo_5951541388023807826_y.jpg" alt="photo 2 " style ="width:500px;height:1000px;">
+<br>
+<img src="photo_5951541388023807827_y.jpg" alt="photo 2 " style ="width:500px;height:1000px;">
+<br>
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
